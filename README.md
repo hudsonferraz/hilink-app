@@ -1,6 +1,6 @@
 <img src="/public/app.png" width="60%" height="60%"/>
 
-## You can see this project running live [here](https://caickdias.github.io/travel-app/).
+## You can see this project running live [here](https://hudsonferraz.github.io/travel-app/).
 
 # Travel App
 
