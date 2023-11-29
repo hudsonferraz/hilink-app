@@ -1,4 +1,4 @@
-<img src="/public/travel-app.png" width="60%" height="60%"/>
+<img src="/public/app.png" width="60%" height="60%"/>
 
 # Travel App
 
