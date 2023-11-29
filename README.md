@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 <img src="/public/travel-app.png" width="60%" height="60%"/>
 =======
-<img src="/public/app.png" width="60%" height="60%"/>
->>>>>>> 69c52193eb8ba0f370b865a15ac67d441f7bedf2
 
 # Travel App
 
